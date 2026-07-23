@@ -29,6 +29,11 @@
 
 ###
 
+<h3 align="center">💬 "In God we trust, everyone else must bring data."</h3>
+<p align="center"><em>— W. Edwards Deming</em></p>
+
+###
+
 <br clear="both">
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -96,6 +101,6 @@
 
 ###
 
-<p align="left">🔆 Insurance by day, Python and data science by night. With 3+ years of underwriting experience under my belt, I turn raw numbers into sharp insights and craft code with the same precision and rigor I bring to risk assessment — always chasing the story hidden in the data, one line at a time.</p>
+<p align="left">🔆 Underwriter by trade, data storyteller at heart. Over 3+ years, I've learned that every policy, every claim, and every dataset has a story to tell — I'm just here to decode it, one line of code at a time.</p>
 
 ###
