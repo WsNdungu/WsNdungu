@@ -28,14 +28,12 @@
 </div>
 
 ###
-<div>
-  <blockquote align="center">
-    <p>
-      <em>"In God we trust, everyone else must bring data."</em><br>
-      <strong align="center">— W. Edwards Deming</strong>
-    </p>
-  </blockquote>
-</div>
+
+blockquote align="center">
+  <p>
+    <strong><em>"In God we trust, everyone else must bring data."</em></strong><sub> — W. Edwards Deming</sub>
+  </p>
+</blockquote>
 
 ###
 
