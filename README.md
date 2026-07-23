@@ -19,31 +19,31 @@
 
 ###
 
-<h3 align="center">Hey  👋 there.</h3>
+<h3 align="center">Hi there 👋</h3>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamNdungu.SamNdungu&left_text=%F0%9F%A4%9EOpen%20to%20Opportunities%20and%20collaboration."  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamNdungu.SamNdungu&left_text=%F0%9F%A4%9EOpen%20to%20opportunities%20%26%20collaboration"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">👩‍💻  About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 ###
 
-<h1 align="left">I'm from Nairobi, 🇰🇪 Kenya.</h1>
+<h1 align="left">Based in Nairobi, 🇰🇪 Kenya</h1>
 
 ###
 
-<p align="left">⚡I'm currently working as a Junior Insurance Specialist at Safettip Insurance Agency Ltd.<br><br>🔭 Statistics and Data analysis are my bread and butter. I've a strong foundation in data analysis techniques. <br><br>📚 Watch this space - I'm all about blending Insurance know-how with Python and Data Science, cutting-edge tech to make my mark in the industry.</p>
+<p align="left">⚡ By day, I work as a General Insurance Assistant Underwriter.<br><br>🔭 Statistics and data analysis are my bread and butter — I bring a strong analytical foundation to every problem I tackle.<br><br>📚 I'm on a mission to blend insurance expertise with Python and data science, bringing fresh, tech-driven thinking to the industry. Watch this space.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages &amp; Tools</h3>
 
 ###
 
@@ -75,7 +75,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📊 My Stats</h3>
 
 ###
 
@@ -92,10 +92,10 @@
 
 <br clear="both">
 
-<h3 align="center">🤠🤠 Fun Fact  🤠🤠</h3>
+<h3 align="center">🤠 Fun Fact 🤠</h3>
 
 ###
 
-<p align="left">🔆 Insurance by day! Python, and Data Science by night. I wrangle numbers and craft code, all with a passion for building insights.  I'm here to unlock the secrets hidden within your data, one line of code at a time.</p>
+<p align="left">🔆 Insurance by day, Python and data science by night. I turn raw numbers into clear insights and craft code with the same rigor I bring to underwriting — always chasing the story hidden in the data, one line at a time.</p>
 
 ###
