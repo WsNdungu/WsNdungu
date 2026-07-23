@@ -30,8 +30,7 @@
 ###
 
 <blockquote align="center">
-  <h2>❝ In God we trust, everyone else must bring data. ❞</h2>
-  <p><strong>— W. Edwards Deming</strong></p>
+  <h2>❝ In God we trust, everyone else must bring data. ❞</h2><p><strong>— W. Edwards Deming</strong></p>
 </blockquote>
 
 ###
