@@ -30,7 +30,7 @@
 ###
 
 <h3 align="center">💬 "In God we trust, everyone else must bring data."</h3>
-<p align="center"><em>— W. Edwards Deming</em></p>
+<p align="center"><em>— *Attributed to  W. Edwards Deming*</em></p>
 
 ###
 
